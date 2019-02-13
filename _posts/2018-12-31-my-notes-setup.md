@@ -34,3 +34,7 @@ For filtering I use a tag based approach. I add tags by adding `#tagname` (# and
 Another useful feature is adding links to other notes. This can be done by using `[[note name]]`. This approach works in both nvALT and 1Writer.
 
 Earlier, I used to use Apple Notes for note taking. However I found that I was increasingly wasting time on formatting and other bells and whistles. I found this plaintext note taking approach to be time saving and more customisable. 
+
+**Update**
+
+I have started using Bear notes instead of nvALT. Bear is focused on markdown, but also provides additional features like tags, multiple export option, a dozen themes and a beautiful UI.
