@@ -8,14 +8,10 @@ Unlike software, resources for learning VLSI are few and in between. Here is a c
 
 ## Books
 
-### VLSI
-
 * **SystemVerilog for Verification** by Chris Spear - I used this book for learning the basics of SystemVerilog
 * **Verilog HDL** by Samir Palnitkar - a good introduction to the basics of Verilog HDL. The book is divided into three parts, read the first two.
 
 ## Websites
-
-### VLSI
 
 * [EDA playground](http://edaplayground.com/) - For running RTL and simulations. This website provides access to tools by multiple vendors.
 * [Link](http://www.asic-world.com/) - For tutorials on Verilog, VHDL, SV, scripting
