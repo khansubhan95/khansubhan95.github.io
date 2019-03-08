@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Resources for Learning VLSI"
-date:   2019-03-08 22:30:00 +0530
+date:   2019-03-08 20:30:00 +0530
 permalink: /resources-for-learning-vlsi/
 ---
 Unlike software, resources for learning VLSI are few and in between. Here is a collection of books and websites that I think will be really helpful.
