@@ -4,6 +4,8 @@ title:  "How to handle user authentication in Python Django"
 date:   2017-02-17 22:22:32 +0530
 permalink: /how-to-handle-user-authentication-in-python-django/
 ---
+![](/assets/uploads/2017/user-authentication-django.png)
+
 In this tutorial, I’ll show how to do user login, logout and signup in Django. All the code that I describe here is in this GitHub [repository](https://github.com/khansubhan95/Django-User-Auth) . This tutorial will be using Python 2.7 and Django 1.9.
 
 ### Project installation and structure
