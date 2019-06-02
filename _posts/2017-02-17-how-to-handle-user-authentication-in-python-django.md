@@ -267,6 +267,7 @@ Here’s some relevant documentation in case you get stuck, or want to learn mor
 * [User Authentication](https://docs.djangoproject.com/en/1.10/topics/auth/default/) 
 * [Forms](https://docs.djangoproject.com/en/1.10/topics/forms/) 
 
+You can also read this post at [Medium](https://medium.com/free-code-camp/user-authentication-in-django-bae3a387f77d)
 
 
 
