@@ -32,7 +32,7 @@ urlpatterns = [
     url(r’^login/$’, auth_views.login),
     url(r’^logout/$’, auth_views.logout),
     url(r’^’, include(‘mysite.urls’)),
-    **url(‘^’, include(‘django.contrib.auth.urls’)),**
+    url(‘^’, include(‘django.contrib.auth.urls’)),
 ]
 ```
 
