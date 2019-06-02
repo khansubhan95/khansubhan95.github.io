@@ -14,7 +14,7 @@ My social profiles:
 
 [LinkedIn](https://www.linkedin.com/in/khansubhan95)
 
-You can contact me at subhan@logicblocks.co
+You can contact me at khansubhan95@gmail.com
 
 ## Blog
 Subscribe to the [RSS feed](/feed.xml).
