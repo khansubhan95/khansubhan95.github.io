@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am Mohammed Subhan Khan, a VLSI engineer working in FPGA verification at Wipro Ltd. I graduated in Electronics and Communication Engineering(ECE) from Osmania University.
+I am Mohammed Subhan Khan, and this is my blog where I write about programming.
 
-My job involves doing RTL(register transfer level) verification using SystemVerilog with UVM(Universal Verification Methodology). I also have some experience in writing RTL in Verilog HDL. Other skills include knowledge of protocols like HDMI, I2C etc. and debugging skills using simulators like NCSim. Other languages that I am interested in are C, C++ and Python. I also did some web development while in college, using Django and Node.js.
+My interest in programming is in Python, JavaScript and C and web frameworks like Node.js and Django.
+
+I was previously a VLSI engineer working in FPGA verification at Wipro Ltd where I did RTL verification using SystemVerilog with UVM. I also have some experience in writing RTL in Verilog HDL. Other skills include knowledge of protocols like HDMI, I2C etc. and debugging skills using simulators like NCSim.
+
+I graduated in ECE from Osmania University in 2017.
 
 My social profiles:
 
@@ -19,6 +23,6 @@ You can contact me at khansubhan95[at]gmail[dot]com
 ## Blog
 Subscribe to the [RSS feed](/feed.xml).
 
-I use this blog to write about hardware, software and tech in general. Existing topics include commonly available hardware like Arduino and ESP8266, Web Development and Django. I am also planning to write on FPGAs, computer architecture and low level software programming in the coming weeks.
+I use this blog to write about software, programming and tech in general. Existing topics include commonly available hardware like Arduino and ESP8266, Web Development and Django.
 
 You can find all the posts in the [archives](/).
