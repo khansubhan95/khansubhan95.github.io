@@ -12,6 +12,8 @@ I was previously a VLSI engineer working in FPGA verification at Wipro Ltd where
 
 I graduated in ECE from Osmania University in 2017.
 
+I am currently looking for a software developer role in the Chicago area. You can find my resume [here](https://docs.google.com/document/d/1G69EAxvZ-WPJKjruStYbnV3_FF1to_JbibDxkAeMcGM/edit?usp=sharing)
+
 My social profiles:
 
 [GitHub](https://github.com/khansubhan95)
