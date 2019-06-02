@@ -82,7 +82,7 @@ Our registration/login.html includes the following simple HTML form:
 </head>
 <body>
     <form method=“POST”>
-        {% csrf_token %}
+        {% raw %}{% csrf_token %}{% endraw %}
         <p>
             <label>Username</label>
             <input type=“text” name=“username”>
@@ -248,7 +248,7 @@ For the register view, we check whether the request method is POST or not. If it
 </head>
 <body>
     <form method=“POST”>
-        {% csrf_token %} {{ form.as_p }}
+        {% raw %}{% csrf_token %} {{ form.as_p }}{% endraw %}
         <button type=“submit”>Submit</button>
     </form>
 </body>
@@ -264,8 +264,8 @@ Here’s some relevant documentation in case you get stuck, or want to learn mor
 
 Here’s some relevant documentation in case you get stuck, or want to learn more:
 
-*  [User Authentication](https://docs.djangoproject.com/en/1.10/topics/auth/default/) 
-*  [Forms](https://docs.djangoproject.com/en/1.10/topics/forms/) 
+* [User Authentication](https://docs.djangoproject.com/en/1.10/topics/auth/default/) 
+* [Forms](https://docs.djangoproject.com/en/1.10/topics/forms/) 
 
 
 
