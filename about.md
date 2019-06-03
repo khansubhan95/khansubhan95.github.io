@@ -14,6 +14,14 @@ I graduated in ECE from Osmania University in 2017.
 
 I am currently looking for a software developer role in the Chicago area. You can find my resume [here](https://docs.google.com/document/d/1G69EAxvZ-WPJKjruStYbnV3_FF1to_JbibDxkAeMcGM/edit?usp=sharing)
 
+**Technical Skills**
+
+Language: JavaScript, Python, C, SQL
+
+Tools/Frameworks: Node.js, React, jQuery, Bootstrap, Git
+
+All projects (with links to code and live versions) can be found [here](/projects)
+
 My social profiles:
 
 [GitHub](https://github.com/khansubhan95)
