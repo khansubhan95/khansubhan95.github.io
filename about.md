@@ -28,6 +28,8 @@ My social profiles:
 
 [LinkedIn](https://www.linkedin.com/in/khansubhan95)
 
+[Twitter](https://twitter.com/khansubhan95)
+
 You can contact me at khansubhan95[at]gmail[dot]com
 
 ## Blog
