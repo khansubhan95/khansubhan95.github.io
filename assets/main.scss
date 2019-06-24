@@ -73,6 +73,13 @@ a.project-link {
     font-weight: bold;
 }
 
+a.icon-link,
+a.icon-link:hover,
+a.icon-link:visited {
+    text-decoration: none;
+    color: #111;
+}
+
 @media screen and (min-width: 601px) and (max-width: 900px) {
     .box {
         width: calc(50% - 10px);
