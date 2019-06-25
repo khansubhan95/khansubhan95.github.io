@@ -21,7 +21,7 @@ I am currently looking for a software engineer role in the Chicago area. You can
 
 ---
 
-I am Mohammed Subhan Khan, and this is my blog on programming and tech. I write about software, programming and tech in general. Existing topics include commonly available hardware like Arduino and ESP8266, Web Development and Django.
+I am Mohammed Subhan Khan, and this is my blog where I write about software, programming and tech in general. Existing topics include commonly available hardware like Arduino and ESP8266, Web Development and Django.
 
 I was previously a VLSI engineer working in FPGA verification at Wipro Ltd where used I SystemVerilog with UVM and Verilog HDL. I also know protocols like HDMI, I2C etc. and debugging skills using simulators like NCSim. I graduated in ECE from Osmania University in 2017.
 
