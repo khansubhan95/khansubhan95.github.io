@@ -32,3 +32,5 @@ I was previously a VLSI engineer working in FPGA verification at Wipro Ltd where
 **Subscribe** to the [RSS feed](/feed.xml).
 
 **Posts** You can find all the posts in the [archives](/).
+
+This is site is made with [Jekyll](https://jekyllrb.com/) and deployed on [Netlify](https://www.netlify.com/).
