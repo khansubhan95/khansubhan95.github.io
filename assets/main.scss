@@ -80,6 +80,20 @@ a.icon-link:visited {
     color: #111;
 }
 
+.send-button {
+    padding: 8px;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    font-family: monospace;
+}
+
+.send-button:hover {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+}
+
 @media screen and (min-width: 601px) and (max-width: 900px) {
     .box {
         width: calc(50% - 10px);
