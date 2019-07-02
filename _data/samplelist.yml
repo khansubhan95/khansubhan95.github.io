@@ -1,0 +1,14 @@
+docs_list_title: Nav links
+docs:
+
+- title: Archives
+  url: /
+
+- title: About
+  url: /about
+
+- title: Projects
+  url: /projects
+
+- title: Contact
+  url: /contact
