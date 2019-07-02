@@ -26,4 +26,4 @@ include: [_redirects]
 
 ### Step 3: Deploy to Netlify
 
-Deploy your site to Netlify and you are done. If you enter <your_base_url>/resume you are redirected to <your_base_url>/about 
+Deploy your site to Netlify and you are done. If you enter `<your_base_url>/resume` you are redirected to `<your_base_url>/about`.
