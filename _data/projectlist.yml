@@ -1,0 +1,49 @@
+docs_list_title: Projects
+docs:
+
+- name: Spring CRUD blog
+  github_link: https://github.com/khansubhan95/spring-crud-blog
+  live_link: http://intense-springs-34819.herokuapp.com/
+  image: /assets/uploads/2019/book-trading-club.png
+  description: A blog system with CRUD features made using Spring MVC. Access to features is provided only for authenticated users.
+  stack: Spring MVC, Spring Security, Hibernate and MySQL
+
+- name: Pinterest Clone
+  github_link: https://github.com/khansubhan95/Pinterest-Clone
+  live_link: https://malachite-moustache.glitch.me/
+  image: /assets/uploads/2019/pinterest-clone.png
+  description: An image hosting application with basic pinterest functionality. Consists of twitter based authentication.
+  stack: Node.js, Express, Mongoose, MongoDB
+
+- name: Django Social Network
+  github_link: https://github.com/khansubhan95/django-social-network
+  live_link: https://khansubhan95.pythonanywhere.com/
+  image: /assets/uploads/2019/django-social-network.png
+  description: A Django application with user authentication and email backend that allows users make posts with images.
+  stack: Django, PostgreSQL
+
+- name: Markdown Editor
+  github_link: https://github.com/khansubhan95/markdown-editor
+  live_link: https://future-sink.surge.sh/
+  image: /assets/uploads/2019/markdown-editor.png
+  description: A React app that renders markdown text into html in real time
+
+- name: Minesweeper
+  github_link: https://github.com/khansubhan95/minesweeper
+  live_link: 
+  image: /assets/uploads/2019/minesweeper.png
+  description: A Python clone of the Minesweeper game made with pygame.
+
+- name: Book Trading Club
+  github_link: https://github.com/khansubhan95/book-trading-club
+  live_link: https://round-burst.gomix.me/
+  image: /assets/uploads/2019/book-trading-club.png
+  description: A Node.js application that allows users to lend and borrow books.
+  stack: Node.js, Express, MongoDB
+
+
+# - name: Voting App
+#   github_link: https://github.com/khansubhan95/voting-app
+#   live_link: https://shielded-mountain-21704.herokuapp.com/
+#   image: /assets/uploads/2019/voting-app.png
+#   description: a poll creation and voting application made with Node.js and MongoDB. Includes GitHub based authentication. 
