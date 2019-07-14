@@ -4,37 +4,33 @@ title: About
 permalink: /about/
 ---
 
-I am Mohammed Subhan Khan, and this is my blog where I write about programming.
+[<i class="fab fa-github-square fa-3x"></i>](https://github.com/khansubhan95){: .icon-link}
+[<i class="fab fa-linkedin fa-3x"></i>](https://www.linkedin.com/in/khansubhan95){: .icon-link}
+[<i class="fab fa-twitter-square fa-3x"></i>](https://twitter.com/khansubhan95){: .icon-link}
+[<i class="fas fa-rss-square fa-3x"></i>](/feed.xml){: .icon-link}
 
-My interest in programming is in Python, JavaScript and C and web frameworks like Node.js and Django.
+---
 
-I was previously a VLSI engineer working in FPGA verification at Wipro Ltd where I did RTL verification using SystemVerilog with UVM. I also have some experience in writing RTL in Verilog HDL. Other skills include knowledge of protocols like HDMI, I2C etc. and debugging skills using simulators like NCSim.
+I am currently looking for a software engineer role in the Chicago area. You can find my resume [here](https://docs.google.com/document/d/1G69EAxvZ-WPJKjruStYbnV3_FF1to_JbibDxkAeMcGM/edit?usp=sharing)
 
-I graduated in ECE from Osmania University in 2017.
+#### Technical Skills
 
-I am currently looking for a software developer role in the Chicago area. You can find my resume [here](https://docs.google.com/document/d/1G69EAxvZ-WPJKjruStYbnV3_FF1to_JbibDxkAeMcGM/edit?usp=sharing)
+**Languages**: JavaScript, Python, C
 
-**Technical Skills**
+**Tools/Frameworks**: Node.js, Django, React, jQuery, Bootstrap, Git
 
-Language: JavaScript, Python, C, SQL
+---
 
-Tools/Frameworks: Node.js, React, jQuery, Bootstrap, Git
+I am Mohammed Subhan Khan, and this is my blog where I write about software, programming and tech in general. Existing topics include commonly available hardware like Arduino and ESP8266, Web Development and Django.
 
-All projects (with links to code and live versions) can be found [here](/projects)
+I was previously a VLSI engineer working in FPGA verification at Wipro Ltd where used I SystemVerilog with UVM and Verilog HDL. I also know protocols like HDMI, I2C etc. and debugging skills using simulators like NCSim. I graduated in ECE from Osmania University in 2017.
 
-My social profiles:
+**Contact**: You can contact me at khansubhan95[at]gmail[dot]com
 
-[GitHub](https://github.com/khansubhan95)
+**Projects** All projects (with links to code and live versions) can be found [here](/projects)
 
-[LinkedIn](https://www.linkedin.com/in/khansubhan95)
+**Subscribe** to the [RSS feed](/feed.xml).
 
-[Twitter](https://twitter.com/khansubhan95)
+**Posts** You can find all the posts in the [archives](/).
 
-You can contact me at khansubhan95[at]gmail[dot]com
-
-## Blog
-Subscribe to the [RSS feed](/feed.xml).
-
-I use this blog to write about software, programming and tech in general. Existing topics include commonly available hardware like Arduino and ESP8266, Web Development and Django.
-
-You can find all the posts in the [archives](/).
+This is site is made with [Jekyll](https://jekyllrb.com/) and deployed on [Netlify](https://www.netlify.com/).

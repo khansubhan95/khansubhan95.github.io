@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+  {%- include header.html -%}
+
+  <main class="page-content" aria-label="Content">    
+    <div class="container">
+      <!-- {% for project in site.projects %}
+      <div class="box">
+        <img src="{{ project.image }}" class="project-image">
+        <p class="project-title">{{ project.name }}</p>
+        <p class="project-description">{{ project.description }}</p>
+        <div class="card-link"><a href="{{ project.github_link }}" class="project-link">GitHub</a></div>
+        {% if project.live_link %}
+        <div class="card-link">
+        <a href="{{ project.live_link }}" class="project-link">  Demo</a>
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %} -->
+
+
+      {% for project in site.data.projectlist.docs %}
+      <div class="box">
+        <img src="{{ project.image }}" class="project-image">
+        <p class="project-title">{{ project.name }}</p>
+        <p class="project-description">{{ project.description }}</p>
+        {% if project.stack %}
+        <p><strong>Stack: </strong>{{project.stack}}</p>
+        {% endif %}
+        <div class="card-link"><a href="{{ project.github_link }}" class="project-link">GitHub</a></div>
+        {% if project.live_link %}
+        <div class="card-link">
+        <a href="{{ project.live_link }}" class="project-link">  Demo</a>
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+
+    </div>
+  </body>
+  
+</main>
+</html>
