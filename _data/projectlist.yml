@@ -1,12 +1,19 @@
 docs_list_title: Projects
 docs:
 
-- name: Spring CRUD blog
+- name: Spring Blogsystem
   github_link: https://github.com/khansubhan95/spring-crud-blog
   live_link: http://intense-springs-34819.herokuapp.com/
   image: /assets/uploads/2019/spring-crud-blog.png
   description: A blog system with CRUD features made using Spring MVC. Access to features is provided only for authenticated users.
   stack: Spring MVC, Spring Security, Hibernate and MySQL
+
+- name: Book Trading Club
+  github_link: https://github.com/khansubhan95/book-trading-club
+  live_link: https://round-burst.gomix.me/
+  image: /assets/uploads/2019/book-trading-club.png
+  description: A Node.js application that allows users to lend and borrow books.
+  stack: Node.js, Express, MongoDB
 
 - name: Pinterest Clone
   github_link: https://github.com/khansubhan95/Pinterest-Clone
@@ -34,12 +41,7 @@ docs:
   image: /assets/uploads/2019/minesweeper.png
   description: A Python clone of the Minesweeper game made with pygame.
 
-- name: Book Trading Club
-  github_link: https://github.com/khansubhan95/book-trading-club
-  live_link: https://round-burst.gomix.me/
-  image: /assets/uploads/2019/book-trading-club.png
-  description: A Node.js application that allows users to lend and borrow books.
-  stack: Node.js, Express, MongoDB
+
 
 
 # - name: Voting App
