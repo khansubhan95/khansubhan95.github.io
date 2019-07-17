@@ -6,7 +6,7 @@ docs:
   live_link: http://intense-springs-34819.herokuapp.com/
   image: /assets/uploads/2019/spring-crud-blog.png
   description: A blog system with CRUD features made using Spring MVC. Access to features is provided only for authenticated users.
-  stack: Spring MVC, Spring Security, Hibernate and MySQL
+  stack: Spring MVC, Spring Security, Hibernate and PostgreSQL
 
 - name: Book Trading Club
   github_link: https://github.com/khansubhan95/book-trading-club
