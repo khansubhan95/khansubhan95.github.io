@@ -6,14 +6,26 @@ docs:
   live_link: http://intense-springs-34819.herokuapp.com/
   image: /assets/uploads/2019/spring-crud-blog.png
   description: A blog system with CRUD features made using Spring MVC. Access to features is provided only for authenticated users.
-  stack: Spring MVC, Spring Security, Hibernate and PostgreSQL
+  stack: Spring MVC, Spring Security, Hibernate, PostgreSQL
 
 - name: Book Trading Club
   github_link: https://github.com/khansubhan95/book-trading-club
   live_link: https://round-burst.gomix.me/
   image: /assets/uploads/2019/book-trading-club.png
   description: A Node.js application that allows users to lend and borrow books.
-  stack: Node.js, Express, MongoDB
+  stack: Node.js, Express, MongoDB, Mongoose
+
+- name: Markdown Notes
+  github_link: https://github.com/khansubhan95/markdown-notes
+  live_link: https://heuristic-curran-0442a7.netlify.com/
+  image: /assets/uploads/2019/markdown-notes.png
+  description: A React app that allows users to create markdown based notes.
+
+- name: Minesweeper
+  github_link: https://github.com/khansubhan95/minesweeper
+  live_link:
+  image: /assets/uploads/2019/minesweeper.png
+  description: A Python clone of the Minesweeper game made with pygame.
 
 - name: Pinterest Clone
   github_link: https://github.com/khansubhan95/Pinterest-Clone
@@ -29,23 +41,10 @@ docs:
   description: A Django application with user authentication and email backend that allows users make posts with images.
   stack: Django, PostgreSQL
 
-- name: Markdown Editor
-  github_link: https://github.com/khansubhan95/markdown-editor
-  live_link: https://future-sink.surge.sh/
-  image: /assets/uploads/2019/markdown-editor.png
-  description: A React app that renders markdown text into html in real time
-
-- name: Minesweeper
-  github_link: https://github.com/khansubhan95/minesweeper
-  live_link: 
-  image: /assets/uploads/2019/minesweeper.png
-  description: A Python clone of the Minesweeper game made with pygame.
-
-
 
 
 # - name: Voting App
 #   github_link: https://github.com/khansubhan95/voting-app
 #   live_link: https://shielded-mountain-21704.herokuapp.com/
 #   image: /assets/uploads/2019/voting-app.png
-#   description: a poll creation and voting application made with Node.js and MongoDB. Includes GitHub based authentication. 
+#   description: a poll creation and voting application made with Node.js and MongoDB. Includes GitHub based authentication.
