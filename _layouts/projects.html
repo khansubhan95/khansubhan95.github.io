@@ -7,7 +7,7 @@
 
   {%- include header.html -%}
 
-  <main class="page-content" aria-label="Content">    
+  <main class="page-content" aria-label="Content">
     <div class="container">
       <!-- {% for project in site.projects %}
       <div class="box">
@@ -32,10 +32,10 @@
         {% if project.stack %}
         <p><strong>Stack: </strong>{{project.stack}}</p>
         {% endif %}
-        <div class="card-link"><a href="{{ project.github_link }}" class="project-link">GitHub</a></div>
+        <div class="card-link"><a href="{{ project.github_link }}" target="_blank" class="project-link">GitHub</a></div>
         {% if project.live_link %}
         <div class="card-link">
-        <a href="{{ project.live_link }}" class="project-link">  Demo</a>
+        <a href="{{ project.live_link }}" target="_blank" class="project-link">  Demo</a>
         </div>
         {% endif %}
       </div>
@@ -43,6 +43,6 @@
 
     </div>
   </body>
-  
+
 </main>
 </html>
