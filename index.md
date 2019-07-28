@@ -11,7 +11,7 @@ I began software development while in College, where I mostly dabbled in web dev
 
 I have worked as an FPGA Verification Engineer at Wipro Ltd. in the past. I graduated in ECE from Osmania University in 2017.
 
-I am looking for a software engineer position, preferably in a full stack role You can find my resume [here](https://docs.google.com/document/d/13q_3YI2rwva1StCc-dNojGcM3sfODznH10M8CIAFXX4/edit?usp=sharing)
+I am looking for a software engineer position, preferably in a full stack role You can find my resume [here](https://drive.google.com/file/d/1nUXzMWQRzkEihO_o3TpTOUsb8oxNLeFh/view?usp=sharing)
 
 #### Technical Skills
 
