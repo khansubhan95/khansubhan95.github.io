@@ -6,8 +6,6 @@ permalink: /password-reset-in-django/
 ---
 ![](/assets/uploads/2017/password-reset-in-django.png)
 
-{% gist b34ff0b73cddef3aa10522689d9c582e %}
-
 This tutorial will build on the previous one, and will deal with the issue of password reset through email in Django. All the code builds upon that of the previous tutorial and the code for the present post can be found [here](https://github.com/khansubhan95/Django-Password-Reset) . We will use Python 2.7 and Django 1.9. Let’s get started.
 
 I will assume that you have the code from the previous tutorial, if not you can find it [here](https://github.com/khansubhan95/Django-User-Auth) . Note that I have replaced the src/settings.py file with src/settings.py.template to avoid disclosing passwords. The lines of code to be added in existing files will be represented in bold.
