@@ -1,14 +1,11 @@
 docs_list_title: Nav links
 docs:
 
-- title: Archives
-  url: /
+- title: Blog
+  url: /blog
 
-- title: About
-  url: /about
-
-- title: Projects
-  url: /projects
+- title: Portfolio
+  url: /portfolio
 
 - title: Contact
   url: /contact

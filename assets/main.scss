@@ -94,6 +94,15 @@ a.icon-link:visited {
     border: 3px solid black;
 }
 
+.post-link {
+    display: inline;
+    font-size: inherit
+}
+
+.post-list > li {
+    margin-bottom: inherit;
+}
+
 @media screen and (min-width: 601px) and (max-width: 900px) {
     .box {
         width: calc(50% - 10px);
