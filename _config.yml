@@ -28,8 +28,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
-collections:
-  - projects
 include: [_redirects]
 
 name: Ramblings on Stuff
