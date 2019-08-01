@@ -15,16 +15,9 @@ I am currently looking for a software engineer position, preferably in a full st
 
 My portfolio, with links to source code and demo versions, can be found [**here**](/portfolio).
 
-#### Technical Skills
-
-```
-Languages: JavaScript, Java, Python, SQL.
-Frameworks: Node.js/Express, React, Spring, Spring MVC, Hibernate, jQuery, Bootstrap.
-Databases: PostgreSQL, MongoDB
-Tools/Others: Git, Maven
-```
-
 You can also read my [**blog**](/blog) and [**subscribe**](/feed.xml) to it using a feed reader like feedly. [**Contact**](/contact) me to give any comments.
+
+#### On the internet
 
 [<i class="fab fa-github-square fa-3x"></i>](https://github.com/khansubhan95){: .icon-link}
 [<i class="fab fa-linkedin fa-3x"></i>](https://www.linkedin.com/in/khansubhan95){: .icon-link}
