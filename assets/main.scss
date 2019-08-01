@@ -103,6 +103,10 @@ a.icon-link:visited {
     margin-bottom: inherit;
 }
 
+#on-the-internet {
+    text-decoration: underline;
+}
+
 @media screen and (min-width: 601px) and (max-width: 900px) {
     .box {
         width: calc(50% - 10px);
