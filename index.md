@@ -19,9 +19,9 @@ You can also read my [**blog**](/blog) and [**subscribe**](/feed.xml) to it usin
 
 #### On the internet
 
-[<i class="fab fa-github-square fa-3x"></i>](https://github.com/khansubhan95){: .icon-link}
+[<i class="fab fa-github fa-3x"></i>](https://github.com/khansubhan95){: .icon-link}
 [<i class="fab fa-linkedin fa-3x"></i>](https://www.linkedin.com/in/khansubhan95){: .icon-link}
-[<i class="fab fa-twitter-square fa-3x"></i>](https://twitter.com/khansubhan95){: .icon-link}
-[<i class="fas fa-rss-square fa-3x"></i>](/feed.xml){: .icon-link}
+[<i class="fab fa-twitter fa-3x"></i>](https://twitter.com/khansubhan95){: .icon-link}
+[<i class="fas fa-rss fa-3x"></i>](/feed.xml){: .icon-link}
 
 <small>Made with [Jekyll](https://jekyllrb.com/) and deployed on [Netlify](https://www.netlify.com/).</small>
