@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Hi, I am Subhan 👋
+title: Bio 👨‍💻
 ---
-I am a full stack developer located in Chicago, Illinois.
+Hey! I'm Subhan. I am a full stack developer located in Chicago, Illinois.
 
 I began software development while in College, where I mostly dabbled in web development using Python and Django. Around that time, I grew interested in the changes that were happening in JavaScript at the time and moved to Node.js and React. I also decided to invest in Java and learnt the Spring framework.
 

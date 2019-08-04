@@ -1,6 +1,9 @@
 docs_list_title: Nav links
 docs:
 
+- title: About
+  url: /
+
 - title: Blog
   url: /blog
 
