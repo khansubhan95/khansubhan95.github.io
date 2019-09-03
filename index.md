@@ -9,7 +9,7 @@ Hey! I'm Subhan. I am a full stack developer located in Chicago, Illinois.
 
 I began software development while in College, where I mostly dabbled in web development using Python and Django. Around that time, I grew interested in the changes that were happening in JavaScript at the time and moved to Node.js and React. I also decided to invest in Java and learnt the Spring framework.
 
-I have worked as a Project Engineer in Wipro from Aug 2017 - Mar 2019. I graduated in ECE from Osmania University in May 2017.
+I have worked as a Project Engineer in Wipro from Aug 2017 to Mar 2019. I graduated in ECE from Osmania University in May 2017.
 
 I am currently looking for a software engineer position, preferably in a full stack role. Here's my [**resume**](https://1drv.ms/b/s!ApNv8iIsnc4lkOsj8K8LtjgoyMH2lA).
 
