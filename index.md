@@ -11,7 +11,7 @@ I have good experience in using Node.js, React, JavaScript, Java and Spring to m
 
 I have worked as a Project Engineer in Wipro from Aug 2017 to Mar 2019. I graduated in ECE from Osmania University in May 2017.
 
-I am currently looking for a software engineer position, preferably in a full stack role. Here's my [**resume**](https://1drv.ms/b/s!ApNv8iIsnc4lkOsj8K8LtjgoyMH2lA).
+I am searching for a software engineer position, preferably in a full stack role. Here's my [**resume**](https://1drv.ms/b/s!ApNv8iIsnc4lkOsj8K8LtjgoyMH2lA).
 
 My portfolio, with links to source code and demo versions, can be found [**here**](/portfolio).
 
