@@ -5,13 +5,7 @@
 layout: page
 title: Bio 👨‍💻
 ---
-Hey! I'm Subhan. I am a full stack developer located in Chicago, Illinois.
-
-I have good experience in using Node.js, React, JavaScript, Java and Spring to make web applications.
-
-I have worked as a Project Engineer in Wipro from Aug 2017 to Mar 2019. I graduated in ECE from Osmania University in May 2017.
-
-I am searching for a software engineer position, preferably in a full stack role. If you have any open positions please [contact me](/contact) me.
+Hey! I'm Subhan. I located in Chicago, Illinois.
 
 My portfolio, with links to source code and demo versions, can be found [**here**](/portfolio).
 
