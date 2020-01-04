@@ -107,6 +107,43 @@ a.icon-link:visited {
     text-decoration: underline;
 }
 
+.site-header {
+    border-bottom: none;
+}
+
+.nav-list {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: calc(800px - (30px * 2));
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.nav-list .page-link {
+    margin-right: 20px;
+    color: black;
+    text-decoration: underline;
+}
+
+.page-link a {
+    font-weight: 10;
+}
+
+.post-link {
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: black;
+}
+
 @media screen and (min-width: 601px) and (max-width: 900px) {
     .box {
         width: calc(50% - 10px);
@@ -119,4 +156,21 @@ a.icon-link:visited {
         width: calc(100% - 4px);
         // margin: 2px;
     }
+
+    .nav-list {
+        padding-left: 15px;
+        padding-right: 15px;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
 }
+
+@media screen and (max-width: 800px) {
+    .nav-list {
+        max-width: calc(800px - (30px));
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
