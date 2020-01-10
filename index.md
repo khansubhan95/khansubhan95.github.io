@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Bio 👨‍💻 
+title: Bio
+icon: far fa-address-card
 ---
 Hey! I'm Subhan. I located in Chicago, Illinois.
 
