@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ports of Commonly used Services"
+title:  "Commonly Used Service Ports"
 date:   2020-01-10 18:23:00 -0600
-permalink: /commonly-used-ports/
+permalink: /commonly-used-service-ports/
 ---
 Ports of some commonly used services. Unless otherwise specified the ports are tcp.
 
