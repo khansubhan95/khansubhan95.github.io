@@ -151,6 +151,7 @@ table {
   text-align: left;
   color: #3f3f3f;
   border-collapse: collapse;
+  border-spacing: 0;
   border: 0; 
 }
 
@@ -171,6 +172,7 @@ table th {
 
 table td {
     border: none; 
+    vertical-align: baseline;
 }
 
 @media screen and (min-width: 601px) and (max-width: 900px) {
