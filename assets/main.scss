@@ -97,7 +97,7 @@ a.icon-link:visited {
 
 .post-link {
     display: inline;
-    font-size: inherit
+    font-size: 18px;
 }
 
 .post-list > li {
@@ -143,6 +143,34 @@ a {
 
 a:visited {
     color: black;
+}
+
+table {
+  margin-bottom: 30px;
+  width: 100%;
+  text-align: left;
+  color: #3f3f3f;
+  border-collapse: collapse;
+  border: 0; 
+}
+
+
+table tr:nth-child(even) {
+    background: none; 
+}
+  
+table th, table td {
+    padding: 0; 
+}
+
+table th {
+    background-color: white;
+    border: 1px solid white;
+    border-bottom-color: #c9c9c9; 
+}
+
+table td {
+    border: none; 
 }
 
 @media screen and (min-width: 601px) and (max-width: 900px) {
