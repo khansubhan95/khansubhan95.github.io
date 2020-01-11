@@ -183,7 +183,6 @@ table td {
 @media screen and (max-width: 600px) {
     .box {
         width: calc(100% - 4px);
-        // margin: 2px;
     }
 
     .nav-list {
@@ -192,6 +191,10 @@ table td {
         display: flex;
         flex-direction: row;
         justify-content: flex-start;
+    }
+
+    table td {
+        width: 3em;
     }
 }
 
