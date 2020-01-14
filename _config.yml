@@ -30,7 +30,7 @@ plugins:
   - jekyll-gist
 include: [_redirects]
 
-name: Ramblings on Stuff
+name: Thoughts on Stuff
 feed_items: 15
 
 
