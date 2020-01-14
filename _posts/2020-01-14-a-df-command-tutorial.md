@@ -6,7 +6,7 @@ permalink: /df-tutorial/
 ---
 df is a very useful command in Linux that is used to see mounted file systems. It shows what partition are mounted on what paths including NFS shares, their sizes and what amount has been used. 
 
-## Usage 
+### Usage 
 
 ```
 df
@@ -23,7 +23,7 @@ Shows mounted file systems on local server. The result includes the following pa
 - The path the filesystem has been mounted in.
 
 
-## Some useful options
+### Some useful options
 
 ```
 df -h
