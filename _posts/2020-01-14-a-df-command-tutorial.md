@@ -13,12 +13,17 @@ df
 ```
 Shows mounted file systems on local server. The result includes the following parts.
 
+![Result of df](/assets/uploads/2020/01/df.png)
+
 - The filesystem (partition, LVM volumes, NFS shares, mounted media etc).
 - The size in kilobytes.
 - How much of the filesystem has been used in kB.
 - How much is free in kB.
 - The percentage of the FS that has been used.
 - The path the filesystem has been mounted in.
+
+
+## Some useful options
 
 ```
 df -h
