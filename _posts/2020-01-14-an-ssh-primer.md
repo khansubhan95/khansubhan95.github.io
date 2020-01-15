@@ -68,13 +68,13 @@ ssh-keygen
 
 This asks for a number of options, including where the key pair should be stored and a passphrase. The passphrase is for added security on top of the key pair. Remember this as you will be asked for this everytime you login using the keys.
 
-By default once you have completed running this command, the keys are stored in `~/.ssh`. The private key is ~/.ssh/id_rsa and the public key is ~/.ssh/id_rsa.pub. 
+By default once you have completed running this command, the keys are stored in `~/.ssh`. The private key is `~/.ssh/id_rsa` and the public key is `~/.ssh/id_rsa.pub`. 
 
 The private key can be kept on the client. However the public key needs to be copied.
 
-To copy, you can use `ssh-copy-id` command. This will copy the public key to hosts `~/.ssh/known_hosts` file. In fact this file will contain an entry for every public key, each entry for a different client. However this command assumes that you still have password based authentication on the host. If this is disabled, then you can copy-paste ~/.ssh/id_rsa.pub into the host's ~/.ssh/known_hosts file.
+To copy, you can use `ssh-copy-id` command. This will copy the public key to hosts `~/.ssh/known_hosts` file. In fact this file will contain an entry for every public key, each entry for a different client. However this command assumes that you still have password based authentication on the host. If this is disabled, then you can copy-paste `~/.ssh/id_rsa.pub` into the host's `~/.ssh/known_hosts` file.
 
-Once you have done the above steps, you can use the key to loging so
+Once you have done the above steps, you can use the key to logging so
 
 ```
 ssh <user>@<ip> -i <path_to_private_key>
@@ -82,9 +82,9 @@ ssh <user>@<ip> -i <path_to_private_key>
 
 ### An easier way to login from the client
 
-Notice that if the the key based login is used, the command to login becomes quite cumbersome. If you include the port number with -p(if the port is other than the default 22), it is even longer. Also it may be possible that you have multiple private keys, different users for testing etc. It would be nice to have shortcuts that include this info and quickly allow you to login. Luckily, you can include this info in your clients ~/.ssh/config file and it will make the login process easier.
+Notice that if the the key based login is used, the command to login becomes quite cumbersome. If you include the port number with -p(if the port is other than the default 22), it is even longer. Also it may be possible that you have multiple private keys, different users for testing etc. It would be nice to have shortcuts that include this info and quickly allow you to login. Luckily, you can include this info in your clients `~/.ssh/config` file and it will make the login process easier.
 
-To begin with, you can make an entry in ~/.ssh/config like so
+To begin with, you can make an entry in `~/.ssh/config` like so
 
 ```
 Host myserver
