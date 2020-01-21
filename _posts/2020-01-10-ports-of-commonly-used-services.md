@@ -19,5 +19,6 @@ Ports of some commonly used services. Unless otherwise specified the ports are t
 - **Squid** uses 3128
 - **Puppet Server** uses 8140
 - **TFTP** uses 69 udp
+- **Rsync** uses 873
 
 <sup>1</sup> POP3 and IMAP are used by email clients to retrieve emails from server. The difference is that POP3 deletes the emails on the server after they have been retrieved by the client and IMAP keeps the emails on the server even after they have been retrieved.
