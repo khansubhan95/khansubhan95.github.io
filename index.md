@@ -12,7 +12,7 @@ My portfolio, with links to source code and demo versions, can be found [**here*
 
 You can also read my [**blog**](/blog) and [**subscribe**](/feed.xml) to it using a feed reader like feedly. [**Contact**](/contact) me to give any comments.
 
-#### On the internet
+#### Elsewhere
 
 [<i class="fab fa-github fa-3x"></i>](https://github.com/khansubhan95){: .icon-link}
 [<i class="fab fa-linkedin fa-3x"></i>](https://www.linkedin.com/in/khansubhan95){: .icon-link}
