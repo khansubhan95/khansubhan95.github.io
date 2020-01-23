@@ -6,7 +6,7 @@ layout: page
 title: Bio
 icon: far fa-address-card
 ---
-Hey! I'm Subhan. I located in Chicago, Illinois.
+Hey! I'm Subhan. I am located in Chicago, Illinois.
 
 My portfolio, with links to source code and demo versions, can be found [**here**](/portfolio).
 
