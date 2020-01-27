@@ -8,7 +8,13 @@ icon: far fa-address-card
 ---
 Hey! I'm Subhan. I am located in Chicago, Illinois.
 
-You can also read my [**blog**](/blog) and [**subscribe**](/feed.xml) to it using a feed reader like feedly. [**Contact**](/contact) me to give any comments.
+Some things you can do
+
+- Read my [**blog**](/blog).
+- [**Subscribe**](/feed.xml) to it using a feed reader.
+- [**Contact**](/contact) me.
+- View my [**dotfiles**](https://github.com/khansubhan95/dotfiles.git)
+
 
 #### Elsewhere
 
