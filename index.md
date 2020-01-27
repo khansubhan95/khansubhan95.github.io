@@ -8,8 +8,6 @@ icon: far fa-address-card
 ---
 Hey! I'm Subhan. I am located in Chicago, Illinois.
 
-My portfolio, with links to source code and demo versions, can be found [**here**](/portfolio).
-
 You can also read my [**blog**](/blog) and [**subscribe**](/feed.xml) to it using a feed reader like feedly. [**Contact**](/contact) me to give any comments.
 
 #### Elsewhere
