@@ -6,9 +6,9 @@ layout: page
 title: Bio
 icon: far fa-address-card
 ---
-Hey! I'm Subhan. I am located in Chicago, Illinois.
+Hey👋! I'm Subhan. I am located in Chicago, Illinois.
 
-Some things you can do
+Some things you can do:
 
 - Read my [**blog**](/blog).
 - [**Subscribe**](/feed.xml) to it using a feed reader.
