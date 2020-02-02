@@ -95,6 +95,3 @@ Host myserver
 ```
 
 Now you can just login using `ssh myserver`. You can make as many entries as you like in this file.
-
-
-kjnjh
