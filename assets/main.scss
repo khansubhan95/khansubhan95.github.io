@@ -22,8 +22,12 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 .post-meta {
     font-size: 18px;
+    font-family: monospace;
 }
 
+.post-header {
+    margin-bottom: 0;
+}
 
 .container {
     margin-left: 10%;

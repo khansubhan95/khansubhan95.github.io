@@ -8,7 +8,7 @@ icon: fas fa-pencil-alt
     <table>
       {%- for post in site.posts -%}
       <tr>
-        {%- assign date_format = site.minima.date_format | default: "%b %d, %Y" -%}
+        {%- assign date_format = site.minima.date_format | default: "%b %Y" -%}
         <td>
           <span class="post-meta">{{ post.date | date: date_format }}</span>
         </td>
