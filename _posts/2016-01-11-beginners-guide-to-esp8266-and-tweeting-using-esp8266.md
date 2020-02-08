@@ -48,7 +48,7 @@ Note that there is a lot of documentation available on the internet and some par
 
 ### Step 3: Pinout of ESP8266
 
-![](https://logicblocks.co/wp-content/uploads/2018/12/esp8266-3.jpg)
+![](/assets/uploads/2018/12/esp8266-3.jpg)
 
 The ESP8266 has 8 pins as shown.
 
@@ -126,7 +126,7 @@ Use whichever method that works for you through trial and error.
 
 ### Step 8: Connections
 
-![](https://logicblocks.co/wp-content/uploads/2018/12/esp8266-11.jpg)
+![](/assets/uploads/2018/12/esp8266-11.jpg)
 
 The connections of ESP8266 are:
 
@@ -333,7 +333,7 @@ length=data length, MAX 2048 bytes.Generally choose a large number for the lengt
 
 ### Step 16: Sending the Tweet
 
-![](https://logicblocks.co/wp-content/uploads/2018/12/esp8266-16-1024x245.jpg)
+![](/assets/uploads/2018/12/esp8266-16-1024x245.jpg)
 
 Now for sending the tweet
 
