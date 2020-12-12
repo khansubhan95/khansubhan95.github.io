@@ -14,7 +14,6 @@ Some things you can do:
 - Read my [**blog**](/blog).
 - [**Subscribe**](/feed.xml) to it using a feed reader.
 - [**Contact**](/contact) me.
-- View my [**dotfiles**](https://github.com/khansubhan95/dotfiles.git)
 
 
 #### Elsewhere
