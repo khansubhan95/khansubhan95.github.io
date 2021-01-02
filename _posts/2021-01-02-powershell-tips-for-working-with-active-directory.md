@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PowerShell tips for working with Active Directory
+title: Useful PowerShell Cmdlets for working with Active Directory
 date: 2021-01-02T05:37:31.193Z
 permalink: powershell-active-directory
 ---
