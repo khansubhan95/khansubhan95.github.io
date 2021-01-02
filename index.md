@@ -7,7 +7,7 @@ title: Bio
 icon: far fa-address-card
 cms: included
 ---
-Hey👋! I'm Subhan. I am located in Chicago, Illinois.
+Hey👋! I'm Subhan. I am a Cloud Engineer working in Chicago, Illinois.
 
 Some things you can do:
 
