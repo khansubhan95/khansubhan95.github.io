@@ -6,7 +6,7 @@ permalink: powershell-active-directory
 ---
 Some PowerShell commands for AD that make my life easier.
 
-Run these commands from a machine joined to an AD domain. Or install RSAT on your system and make sure that Active Directory Module for Windows PowerShell is enabled in RSAT.
+Run these commands from a machine joined to an AD domain or on a Domain Controller. Install RSAT on your system and make sure that Active Directory Module for Windows PowerShell is enabled in RSAT.
 
 Find all groups an AD user is member of
 
