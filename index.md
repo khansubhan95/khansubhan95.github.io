@@ -13,6 +13,7 @@ Some things you can do:
 
 - Read my [**blog**](/blog).
 - [**Subscribe**](/feed.xml) to it using a feed reader.
+- Get my [**/uses**](/uses).
 - [**Contact**](/contact) me.
 
 
