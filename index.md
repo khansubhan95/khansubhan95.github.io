@@ -16,7 +16,7 @@ Some things you can do:
 - [**Contact**](/contact) me.
 
 
-#### Elsewhere
+#### Elsewhere on the Internet
 
 [<i class="fab fa-github fa-3x"></i>](https://github.com/khansubhan95){: .icon-link}
 [<i class="fab fa-linkedin fa-3x"></i>](https://www.linkedin.com/in/khansubhan95){: .icon-link}
