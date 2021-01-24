@@ -24,4 +24,4 @@ Some things you can do:
 [<i class="fab fa-twitter fa-3x"></i>](https://twitter.com/khansubhan95){: .icon-link}
 [<i class="fas fa-rss fa-3x"></i>](/feed.xml){: .icon-link}
 
-<small>Made with [Jekyll](https://jekyllrb.com/) and deployed on [Netlify](https://www.netlify.com/).</small>
+<small>© Copyright 2021, Mohammed Khan, Made with [Jekyll](https://jekyllrb.com/) and deployed on [Netlify](https://www.netlify.com/).</small>
