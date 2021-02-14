@@ -20,7 +20,6 @@ Some things you can do:
 #### Elsewhere on the Internet
 
 [<i class="fab fa-github fa-3x"></i>](https://github.com/khansubhan95){: .icon-link}
-[<i class="fab fa-linkedin fa-3x"></i>](https://www.linkedin.com/in/khansubhan95){: .icon-link}
 [<i class="fab fa-twitter fa-3x"></i>](https://twitter.com/khansubhan95){: .icon-link}
 [<i class="fas fa-rss fa-3x"></i>](/feed.xml){: .icon-link}
 
